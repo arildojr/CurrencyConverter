@@ -1,5 +1,5 @@
 # Swenson He Currency Converter Coding Challenge using MVVM, Moya, SwiftUI and Combine
-=============================================================================================
+==================================================================
 
 This application displays all the currencies available and it's conversion rates from [Fixer.io API](https://fixer.io/documentation).
 
